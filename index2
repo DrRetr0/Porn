@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Private</title>
 </head>
 <body>
-    
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam dignissimos, maiores quae fuga maxime porro dolorum molestias voluptatibus ut iure consequuntur obcaecati consectetur fugiat? Ipsam asperiores voluptas deserunt sequi obcaecati!</p>
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--G-sdBgNR--/c_scale,f_auto,fl_progressive,q_80,w_800/z7jcryloxjedsztssw39.jpg" alt="Your Mama" width="200" height="200">
 </body>
 </html>
